@@ -1,0 +1,4 @@
+newman run Practice2.postman_collection.json -e Practice2.postman_environment.json -r cli,html
+
+newman run Practice2.postman_collection.json -e Practice2.postman_environment.json -r cli,htmlextra
+
