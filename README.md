@@ -160,11 +160,17 @@ A collection in Postman is a group of requests. To run a collection:
 - Execute the collection to run all requests in sequence.
 
 - Review the test results and responses for each request.
+ - Create Booking-
 ![create booking](https://github.com/tofayel143/API-Testing/blob/main/Image/p1.png)
+- Get Booking
 ![Get booking](https://github.com/tofayel143/API-Testing/blob/main/Image/p4.png)
+- Create Token
 ![Ctreate token](https://github.com/tofayel143/API-Testing/blob/main/Image/p5.png)
+- Update Booking
 ![Update booking](https://github.com/tofayel143/API-Testing/blob/main/Image/p7.png)
+- Get Booking Update
 ![Get booking update](https://github.com/tofayel143/API-Testing/blob/main/Image/p8.png)
+- Delate Booking
 ![Delete](https://github.com/tofayel143/API-Testing/blob/main/Image/p9.png)
 
 ## Automating Tests
