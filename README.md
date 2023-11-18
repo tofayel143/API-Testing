@@ -24,6 +24,9 @@ Before you start API testing with Postman, make sure you have the following:
 
 - **Postman**: Download and install [Postman](https://www.postman.com/downloads/), if you haven't already.
 
+##API Documentation-
+https://documenter.getpostman.com/view/29102059/2s9YXpWeqm
+
 ## Getting Started
 
 - **Import the Environment**: Start by importing an environment that contains variables like API base URLs or authentication tokens. You can create your own or use existing ones.
