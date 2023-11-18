@@ -24,7 +24,7 @@ Before you start API testing with Postman, make sure you have the following:
 
 - **Postman**: Download and install [Postman](https://www.postman.com/downloads/), if you haven't already.
 
-##API Documentation-
+## API Documentation-
 https://documenter.getpostman.com/view/29102059/2s9YXpWeqm
 
 ## Getting Started
